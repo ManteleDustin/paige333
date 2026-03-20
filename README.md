@@ -125,6 +125,5 @@
 <footer>
   <p>© 2026 Chicago Tourist Guide | Educational Website</p>
 </footer>
-
 </body>
 </html>

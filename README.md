@@ -2,7 +2,7 @@
 <head>
   <title>River North Chicago</title>
   <link rel="stylesheet" href="style.css">
-
+</head>
 
 <body>
 
@@ -30,7 +30,7 @@
 
 <title>River North Highlights</title>
   <link rel="stylesheet" href="style.css">
-</head>
+
 
 <body>
 
@@ -70,7 +70,6 @@
 </footer>
 <title>About River North</title>
   <link rel="stylesheet" href="style.css">
-</head>
 
 <body>
 

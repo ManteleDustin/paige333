@@ -2,7 +2,7 @@
 <head>
   <title>River North Chicago</title>
   <link rel="stylesheet" href="style.css">
-</head>
+
 
 <body>
 

@@ -28,7 +28,7 @@
   <p>© 2026 River North Chicago</p>
 </footer>
 
-<title>River North Chicago</title>
+<title>River North Highlights</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -43,19 +43,31 @@
   </div>
 </nav>
 
-<section class="hero">
-  <h2>Welcome to River North</h2>
-  <p>
-    Explore one of Chicago’s most vibrant neighborhoods known for art galleries,
-    nightlife, restaurants and beautiful architecture.
-  </p>
-  <button class="btn">Explore More</button>
+<section class="grid">
+
+  <div class="card">
+    <img src="https://s3-media0.fl.yelpcdn.com/bphoto/utjJpcoK8_XqZ1ihBJT8pg/o.jpg">
+    <h3>Art Galleries</h3>
+    <p>River North is Chicago’s art district with many contemporary galleries.</p>
+  </div>
+
+  <div class="card">
+    <img src="https://images.unsplash.com/photo-1556740749-887f6717d7e4">
+    <h3>Nightlife</h3>
+    <p>Experience exciting nightlife with rooftop bars and clubs.</p>
+  </div>
+
+  <div class="card">
+    <img src="https://nomsmagazine.com/wp-content/uploads/2023/02/The-Smith-interior-thesmithrestaurant-1-800x472.jpg">
+    <h3>Restaurants</h3>
+    <p>Enjoy world-class restaurants and amazing food experiences.</p>
+  </div>
+
 </section>
 
 <footer>
   <p>© 2026 River North Chicago</p>
 </footer>
-
 <title>About River North</title>
   <link rel="stylesheet" href="style.css">
 </head>
